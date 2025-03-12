@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.scss';
-import { MegaTicTacToe } from './components/MegaTicTacToe.tsx';
 import { Link } from 'react-router-dom';
 
 function App() {
@@ -23,8 +22,6 @@ function App() {
             Tic Tac toe (4×4)
           </Link>
         </div>
-
-        {/* <MegaTicTacToe /> */}
       </div>
     </div>
   );

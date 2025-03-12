@@ -1,7 +1,5 @@
 import React from 'react';
 import './styles.scss';
-import x from './../images/x.svg';
-import o from './../images/o.svg';
 import { Tile } from './Tile.tsx';
 import { Player } from '../types.ts';
 import { Modal } from './Modal.tsx';
