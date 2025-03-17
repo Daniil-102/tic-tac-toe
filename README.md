@@ -34,10 +34,10 @@ npm start
 
 ## 📷 Screenshots
 
-<img width="461" alt="image" src="https://github.com/user-attachments/assets/b1f40797-4315-4058-8e6f-9320810780c8" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b1f40797-4315-4058-8e6f-9320810780c8" />
 
-<img width="342" alt="image" src="https://github.com/user-attachments/assets/b84c6e3b-2ef2-4d34-b671-baa51e58b8d7" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8e59e749-b696-446d-8e2f-f7fe2f785646" />
 
-<img width="464" alt="image" src="https://github.com/user-attachments/assets/8e59e749-b696-446d-8e2f-f7fe2f785646" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b84c6e3b-2ef2-4d34-b671-baa51e58b8d7" />
 
-<img width="357" alt="image" src="https://github.com/user-attachments/assets/a5e28e9e-a734-45dd-a974-df148b780580" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a5e28e9e-a734-45dd-a974-df148b780580" />
