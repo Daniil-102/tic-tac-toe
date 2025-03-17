@@ -37,8 +37,8 @@ export const BoardFour: React.FC<Props> = ({
               value={tile}
               onClick={() => handleMove(tileIndex)}
               isDisabled={!!winner}
-              className={`${isBottomBorder ? 'border-bottom' : ''} 
-                          ${isRightBorder ? 'border-right' : ''}
+              className={`${isBottomBorder ? 'border-bottom-three' : ''} 
+                          ${isRightBorder ? 'border-right-three' : ''}
                           ${isClearing ? 'clearing-tile' : ''}
                           four`}
             />
